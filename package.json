@@ -1,0 +1,9 @@
+{
+  "name": "NinjaEntreprise",
+  "version": "1.0.0",
+  "description": "An application to generate order",
+  "main": "src/index.js",
+  "author": "Sébastien Huertas",
+  "license": "MIT",
+  "private": false
+}
