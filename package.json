@@ -1,5 +1,5 @@
 {
-  "name": "NinjaEntreprise",
+  "name": "NinjaEnterprise",
   "version": "1.0.0",
   "description": "An application to generate order",
   "main": "src/index.js",
